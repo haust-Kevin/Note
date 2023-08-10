@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="time_format">EE  M月d日 yyyy HH:mm:ss</string>
+    <string name="time_format_list">EE  M月d日 HH:mm:ss</string>
+</resources>
